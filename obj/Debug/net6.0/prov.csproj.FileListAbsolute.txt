@@ -1,0 +1,15 @@
+C:\Users\nata\Desktop\C#\prov\bin\Debug\net6.0\prov.exe
+C:\Users\nata\Desktop\C#\prov\bin\Debug\net6.0\prov.deps.json
+C:\Users\nata\Desktop\C#\prov\bin\Debug\net6.0\prov.runtimeconfig.json
+C:\Users\nata\Desktop\C#\prov\bin\Debug\net6.0\prov.dll
+C:\Users\nata\Desktop\C#\prov\bin\Debug\net6.0\prov.pdb
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.csproj.AssemblyReference.cache
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.AssemblyInfoInputs.cache
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.AssemblyInfo.cs
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.csproj.CoreCompileInputs.cache
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.dll
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\refint\prov.dll
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.pdb
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\prov.genruntimeconfig.cache
+C:\Users\nata\Desktop\C#\prov\obj\Debug\net6.0\ref\prov.dll
